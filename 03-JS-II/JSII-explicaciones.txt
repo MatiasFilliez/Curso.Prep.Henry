@@ -1,0 +1,12 @@
+for este bucle tiene 3 partes, la primera es la variable que va usar para contar la cantidad de repeticiones que va haciendo (var i =0;).
+la segunda es la condicion de frenado, es decir cuando queremos que deje de ejecutarse, en este caso yo quiero que se ejecute siempre que i sea menor a 100 (i < 100).
+tercero y ultimo como queremos que se vaya incrementando este valor, en este caso quiero que se vaya sumando de a un valor a la vez (i++).
+
+Ejemplo: for (let i = 0; i < 100; i++)
+
+En este ejemplo vemos como en nuestro bucle for la variable "i" que vale 0 se incrementara +1(++) siempre que "i" valga menos que 100.
+
+"&&" es un operador logico que nos permite comprobar 2 o mas expresiones, en caso de ser verdaras todas las expresiones devolvera true de lo contrario devolvera false.
+
+"||" es un operador que nos permite comprobar si una o todas las expresiones son verdaderas nos devolvera true, si todas las expresiones son falsas devolvera false.
+
